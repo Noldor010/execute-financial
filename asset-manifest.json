@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/execute-financial/static/css/main.a0a536f4.chunk.css",
+    "main.js": "/execute-financial/static/js/main.d1d368e2.chunk.js",
+    "main.js.map": "/execute-financial/static/js/main.d1d368e2.chunk.js.map",
+    "runtime-main.js": "/execute-financial/static/js/runtime-main.1d5c99d4.js",
+    "runtime-main.js.map": "/execute-financial/static/js/runtime-main.1d5c99d4.js.map",
+    "static/js/2.31bb3ee7.chunk.js": "/execute-financial/static/js/2.31bb3ee7.chunk.js",
+    "static/js/2.31bb3ee7.chunk.js.map": "/execute-financial/static/js/2.31bb3ee7.chunk.js.map",
+    "index.html": "/execute-financial/index.html",
+    "static/css/main.a0a536f4.chunk.css.map": "/execute-financial/static/css/main.a0a536f4.chunk.css.map",
+    "static/js/2.31bb3ee7.chunk.js.LICENSE.txt": "/execute-financial/static/js/2.31bb3ee7.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/execute-financial/static/media/hero.8562676a.jpg",
+    "static/media/john-doe.e4675f12.png": "/execute-financial/static/media/john-doe.e4675f12.png",
+    "static/media/logo.014fa922.png": "/execute-financial/static/media/logo.014fa922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5c99d4.js",
+    "static/js/2.31bb3ee7.chunk.js",
+    "static/css/main.a0a536f4.chunk.css",
+    "static/js/main.d1d368e2.chunk.js"
+  ]
+}
